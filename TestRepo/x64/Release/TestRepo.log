@@ -1,0 +1,12 @@
+﻿  AbstractOperation.cpp
+  Addition.cpp
+  Soustraction.cpp
+  TestRepo.cpp
+F:\Dev\SourcesV6\trunk\test_repo\trunk\TestRepo\TestRepo.cpp(5,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+F:\Dev\SourcesV6\trunk\test_repo\trunk\TestRepo\TestRepo.cpp(6,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  Génération de code en cours
+  24 of 26 functions (92.3%) were compiled, the rest were copied from previous compilation.
+    14 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  TestRepo.vcxproj -> F:\Dev\SourcesV6\trunk\test_repo\trunk\TestRepo\x64\Release\TestRepo.exe
